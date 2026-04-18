@@ -1,12 +1,8 @@
 {
   "name": "fecta",
   "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {
     "@vercel/kv": "latest",
     "axios": "latest"
-  },
-  "scripts": {
-    "start": "node index.js"
   }
 }
